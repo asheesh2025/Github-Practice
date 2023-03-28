@@ -1,0 +1,13 @@
+1 Go to github page and create a new repository with readme.md file
+2 copy the link of that repository then where you want to keep that repository in local, go to address of that location and just type cmd and right command - git clone link, then press enter.
+
+3-open that folder in sts or vs code and do your coding
+4 after that go into that folder  address and type cmd and follow command
+
+a-git add .
+b-git commit -m"add"
+c-git push origin main
+
+Question what is fetch pull and merge ?
+Answer- pull=merge+fetch
+
