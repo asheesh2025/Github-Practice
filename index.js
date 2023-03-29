@@ -10,3 +10,7 @@ function subs(a, b){
 function mul(a, b){
     return a/b;
 }
+
+function squre(a){
+    return a*a;
+}

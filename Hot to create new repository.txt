@@ -11,3 +11,16 @@ c-git push origin main
 Question what is fetch pull and merge ?
 Answer- pull=merge+fetch
 
+
+How to create sub branch and push code
+
+1- command to create new sub branch-git checkout -b my-sub-branch
+
+where my-sub-branch is sub branch name.
+
+2-git add .
+3-git commit -m "updated"
+3-git push orign  my-sub-branch
+
+Thank you
+
